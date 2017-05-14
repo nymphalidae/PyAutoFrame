@@ -1,0 +1,5 @@
+*.pyc
+Settings.ini
+DSDB_*
+*.log
+*.txt
